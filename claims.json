@@ -1,0 +1,5569 @@
+[
+ {
+  "claim_id": 1,
+  "claim_number": "CLM2025001",
+  "policy_number": "POL2024107",
+  "policy_type": "Travel",
+  "claim_type": "Baggage Loss",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 20700.0,
+  "settled_amount": 19400.0,
+  "claim_date": {
+   "$date": "2026-02-27T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 39,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 2,
+  "claim_number": "CLM2025002",
+  "policy_number": "POL2024210",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "South",
+  "city": "Chennai",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 29000.0,
+  "settled_amount": 22900.0,
+  "claim_date": {
+   "$date": "2025-06-09T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "photos.zip",
+   "id_proof.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 3,
+  "claim_number": "CLM2025003",
+  "policy_number": "POL2024029",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "South",
+  "city": "Coimbatore",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 19500.0,
+  "settled_amount": 17900.0,
+  "claim_date": {
+   "$date": "2025-01-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 19,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 4,
+  "claim_number": "CLM2025004",
+  "policy_number": "POL2024112",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 7200.0,
+  "settled_amount": 6700.0,
+  "claim_date": {
+   "$date": "2025-08-31T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "photos.zip",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 5,
+  "claim_number": "CLM2025005",
+  "policy_number": "POL2024176",
+  "policy_type": "Travel",
+  "claim_type": "Baggage Loss",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12900.0,
+  "settled_amount": 7700.0,
+  "claim_date": {
+   "$date": "2024-05-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 5,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2024-05-23T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2024-05-26T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Documents verified with hospital/workshop records."
+    },
+    {
+     "date": {
+      "$date": "2024-05-29T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "id_proof.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 6,
+  "claim_number": "CLM2025006",
+  "policy_number": "POL2024093",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 49000.0,
+  "settled_amount": 40100.0,
+  "claim_date": {
+   "$date": "2026-06-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 42,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 7,
+  "claim_number": "CLM2025007",
+  "policy_number": "POL2024109",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North",
+  "city": "Delhi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 63700.0,
+  "settled_amount": 63400.0,
+  "claim_date": {
+   "$date": "2024-07-25T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 13,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2024-07-26T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2024-07-29T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 8,
+  "claim_number": "CLM2025008",
+  "policy_number": "POL2024073",
+  "policy_type": "Home",
+  "claim_type": "Burglary",
+  "region": "West",
+  "city": "Surat",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 125400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-01-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Alok Mishra",
+   "risk_score": 25,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-01-17T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    },
+    {
+     "date": {
+      "$date": "2025-01-20T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Requested additional invoices from claimant."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 9,
+  "claim_number": "CLM2025009",
+  "policy_number": "POL2024110",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 17700.0,
+  "settled_amount": 13100.0,
+  "claim_date": {
+   "$date": "2024-04-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 26,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "claim_form.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 10,
+  "claim_number": "CLM2025010",
+  "policy_number": "POL2024033",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "Central",
+  "city": "Bhopal",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 25400.0,
+  "settled_amount": 17000.0,
+  "claim_date": {
+   "$date": "2026-03-03T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 50,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-03-04T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Third-party verification pending."
+    },
+    {
+     "date": {
+      "$date": "2026-03-07T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "photos.zip",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 11,
+  "claim_number": "CLM2025011",
+  "policy_number": "POL2024086",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "South",
+  "city": "Bengaluru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 10700.0,
+  "settled_amount": 6300.0,
+  "claim_date": {
+   "$date": "2024-12-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 40,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 12,
+  "claim_number": "CLM2025012",
+  "policy_number": "POL2024201",
+  "policy_type": "Home",
+  "claim_type": "Fire",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 76100.0,
+  "settled_amount": 52100.0,
+  "claim_date": {
+   "$date": "2025-12-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 33,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "invoice.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 13,
+  "claim_number": "CLM2025013",
+  "policy_number": "POL2024013",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 29200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2024-08-30T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 14,
+  "claim_number": "CLM2025014",
+  "policy_number": "POL2024149",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 31500.0,
+  "settled_amount": 25200.0,
+  "claim_date": {
+   "$date": "2026-09-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 32,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "id_proof.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 15,
+  "claim_number": "CLM2025015",
+  "policy_number": "POL2024193",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 11900.0,
+  "settled_amount": 11600.0,
+  "claim_date": {
+   "$date": "2025-08-10T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 54,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 16,
+  "claim_number": "CLM2025016",
+  "policy_number": "POL2024061",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Pune",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 27500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 11,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 17,
+  "claim_number": "CLM2025017",
+  "policy_number": "POL2024020",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Chennai",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 25400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2024-08-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 50,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "invoice.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 18,
+  "claim_number": "CLM2025018",
+  "policy_number": "POL2024107",
+  "policy_type": "Travel",
+  "claim_type": "Baggage Loss",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 22600.0,
+  "settled_amount": 15700.0,
+  "claim_date": {
+   "$date": "2025-08-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 57,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 19,
+  "claim_number": "CLM2025019",
+  "policy_number": "POL2024109",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North",
+  "city": "Delhi",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 25300.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-25T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 50,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 20,
+  "claim_number": "CLM2025020",
+  "policy_number": "POL2024013",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 19300.0,
+  "settled_amount": 18300.0,
+  "claim_date": {
+   "$date": "2024-07-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 25,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 21,
+  "claim_number": "CLM2025021",
+  "policy_number": "POL2024166",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Mumbai",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 8300.0,
+  "settled_amount": 7200.0,
+  "claim_date": {
+   "$date": "2025-05-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 55,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 22,
+  "claim_number": "CLM2025022",
+  "policy_number": "POL2024200",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 43600.0,
+  "settled_amount": 41600.0,
+  "claim_date": {
+   "$date": "2026-02-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 29,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 23,
+  "claim_number": "CLM2025023",
+  "policy_number": "POL2024015",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 26600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-03-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 46,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "invoice.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 24,
+  "claim_number": "CLM2025024",
+  "policy_number": "POL2024080",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 18200.0,
+  "settled_amount": 16500.0,
+  "claim_date": {
+   "$date": "2025-11-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 40,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 25,
+  "claim_number": "CLM2025025",
+  "policy_number": "POL2024004",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 8500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 22,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-10-02T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2026-10-05T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Documents verified with hospital/workshop records."
+    },
+    {
+     "date": {
+      "$date": "2026-10-08T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 26,
+  "claim_number": "CLM2025026",
+  "policy_number": "POL2024218",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "North",
+  "city": "Delhi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 16600.0,
+  "settled_amount": 10600.0,
+  "claim_date": {
+   "$date": "2025-09-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 31,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 27,
+  "claim_number": "CLM2025027",
+  "policy_number": "POL2024077",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 69100.0,
+  "settled_amount": 49000.0,
+  "claim_date": {
+   "$date": "2026-08-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 47,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-08-13T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Prior claim history reviewed - no red flags."
+    }
+   ]
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 28,
+  "claim_number": "CLM2025028",
+  "policy_number": "POL2024099",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 38800.0,
+  "settled_amount": 34800.0,
+  "claim_date": {
+   "$date": "2026-01-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 42,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "claim_form.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 29,
+  "claim_number": "CLM2025029",
+  "policy_number": "POL2024138",
+  "policy_type": "Home",
+  "claim_type": "Water Damage",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 46200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 24,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "discharge_summary.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 30,
+  "claim_number": "CLM2025030",
+  "policy_number": "POL2024154",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12800.0,
+  "settled_amount": 8800.0,
+  "claim_date": {
+   "$date": "2026-08-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 58,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 31,
+  "claim_number": "CLM2025031",
+  "policy_number": "POL2024185",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 11900.0,
+  "settled_amount": 9700.0,
+  "claim_date": {
+   "$date": "2025-04-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 7,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 32,
+  "claim_number": "CLM2025032",
+  "policy_number": "POL2024217",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 18100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-05-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 50,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 33,
+  "claim_number": "CLM2025033",
+  "policy_number": "POL2024001",
+  "policy_type": "Home",
+  "claim_type": "Flood",
+  "region": "South",
+  "city": "Coimbatore",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 33200.0,
+  "settled_amount": 30600.0,
+  "claim_date": {
+   "$date": "2025-06-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-06-02T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2025-06-05T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "invoice.pdf",
+   "photos.zip",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 34,
+  "claim_number": "CLM2025034",
+  "policy_number": "POL2024126",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 72500.0,
+  "settled_amount": 62800.0,
+  "claim_date": {
+   "$date": "2026-04-23T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 35,
+  "claim_number": "CLM2025035",
+  "policy_number": "POL2024007",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 57200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-03T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 16,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 36,
+  "claim_number": "CLM2025036",
+  "policy_number": "POL2024143",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 27400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2024-12-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 12,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "fir_copy.pdf",
+   "photos.zip",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 37,
+  "claim_number": "CLM2025037",
+  "policy_number": "POL2024203",
+  "policy_type": "Travel",
+  "claim_type": "Trip Cancellation",
+  "region": "South",
+  "city": "Kochi",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 28400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-05T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 48,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 38,
+  "claim_number": "CLM2025038",
+  "policy_number": "POL2024207",
+  "policy_type": "Life",
+  "claim_type": "Disability",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 993500.0,
+  "settled_amount": 759200.0,
+  "claim_date": {
+   "$date": "2025-10-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 55,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-10-03T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Prior claim history reviewed - no red flags."
+    },
+    {
+     "date": {
+      "$date": "2025-10-06T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": [
+   "high-value"
+  ]
+ },
+ {
+  "claim_id": 39,
+  "claim_number": "CLM2025039",
+  "policy_number": "POL2024105",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "West",
+  "city": "Pune",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 16400.0,
+  "settled_amount": 11500.0,
+  "claim_date": {
+   "$date": "2025-03-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 32,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-03-25T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Cross-checked with police/FIR report."
+    },
+    {
+     "date": {
+      "$date": "2025-03-28T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Cross-checked with police/FIR report."
+    },
+    {
+     "date": {
+      "$date": "2025-03-31T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "claim_form.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 40,
+  "claim_number": "CLM2025040",
+  "policy_number": "POL2024159",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Mumbai",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 67500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-08-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 28,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 41,
+  "claim_number": "CLM2025041",
+  "policy_number": "POL2024078",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Indore",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 59100.0,
+  "settled_amount": 46500.0,
+  "claim_date": {
+   "$date": "2026-07-04T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 5,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-07-05T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "invoice.pdf",
+   "medical_report.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 42,
+  "claim_number": "CLM2025042",
+  "policy_number": "POL2024137",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 11400.0,
+  "settled_amount": 8100.0,
+  "claim_date": {
+   "$date": "2026-09-03T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 19,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-09-04T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Third-party verification pending."
+    },
+    {
+     "date": {
+      "$date": "2026-09-07T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2026-09-10T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Prior claim history reviewed - no red flags."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 43,
+  "claim_number": "CLM2025043",
+  "policy_number": "POL2024054",
+  "policy_type": "Travel",
+  "claim_type": "Trip Cancellation",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 19100.0,
+  "settled_amount": 11800.0,
+  "claim_date": {
+   "$date": "2026-03-27T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 26,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "id_proof.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 44,
+  "claim_number": "CLM2025044",
+  "policy_number": "POL2024006",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 5600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-03-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 43,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf",
+   "medical_report.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 45,
+  "claim_number": "CLM2025045",
+  "policy_number": "POL2024098",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "East",
+  "city": "Patna",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 15200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-05-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 56,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "claim_form.pdf",
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 46,
+  "claim_number": "CLM2025046",
+  "policy_number": "POL2024003",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 6400.0,
+  "settled_amount": 5200.0,
+  "claim_date": {
+   "$date": "2026-05-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 46,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-05-02T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2026-05-05T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Documents verified with hospital/workshop records."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 47,
+  "claim_number": "CLM2025047",
+  "policy_number": "POL2024010",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 36300.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-11-07T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 53,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 48,
+  "claim_number": "CLM2025048",
+  "policy_number": "POL2024055",
+  "policy_type": "Life",
+  "claim_type": "Disability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 606100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-08-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 16,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-08-02T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Prior claim history reviewed - no red flags."
+    },
+    {
+     "date": {
+      "$date": "2026-08-05T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Documents verified with hospital/workshop records."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": [
+   "high-value"
+  ]
+ },
+ {
+  "claim_id": 49,
+  "claim_number": "CLM2025049",
+  "policy_number": "POL2024066",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 9100.0,
+  "settled_amount": 8800.0,
+  "claim_date": {
+   "$date": "2024-12-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 18,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "invoice.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 50,
+  "claim_number": "CLM2025050",
+  "policy_number": "POL2024087",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 4500.0,
+  "settled_amount": 3100.0,
+  "claim_date": {
+   "$date": "2026-03-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 23,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 51,
+  "claim_number": "CLM2025051",
+  "policy_number": "POL2024184",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 58500.0,
+  "settled_amount": 56000.0,
+  "claim_date": {
+   "$date": "2024-11-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 33,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 52,
+  "claim_number": "CLM2025052",
+  "policy_number": "POL2024106",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "North",
+  "city": "Delhi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 33700.0,
+  "settled_amount": 22100.0,
+  "claim_date": {
+   "$date": "2026-03-04T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 59,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 53,
+  "claim_number": "CLM2025053",
+  "policy_number": "POL2024197",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 36800.0,
+  "settled_amount": 22500.0,
+  "claim_date": {
+   "$date": "2026-07-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 51,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 54,
+  "claim_number": "CLM2025054",
+  "policy_number": "POL2024146",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Bengaluru",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 32100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 15,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "medical_report.pdf",
+   "claim_form.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 55,
+  "claim_number": "CLM2025055",
+  "policy_number": "POL2024213",
+  "policy_type": "Home",
+  "claim_type": "Water Damage",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 18600.0,
+  "settled_amount": 14700.0,
+  "claim_date": {
+   "$date": "2025-02-05T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 14,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 56,
+  "claim_number": "CLM2025056",
+  "policy_number": "POL2024079",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 35400.0,
+  "settled_amount": 22100.0,
+  "claim_date": {
+   "$date": "2026-02-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 56,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "claim_form.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 57,
+  "claim_number": "CLM2025057",
+  "policy_number": "POL2024077",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 46200.0,
+  "settled_amount": 31000.0,
+  "claim_date": {
+   "$date": "2026-05-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 17,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-05-15T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 58,
+  "claim_number": "CLM2025058",
+  "policy_number": "POL2024137",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 17400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 58,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 59,
+  "claim_number": "CLM2025059",
+  "policy_number": "POL2024098",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "East",
+  "city": "Patna",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 35600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 43,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "invoice.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 60,
+  "claim_number": "CLM2025060",
+  "policy_number": "POL2024015",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 30500.0,
+  "settled_amount": 26000.0,
+  "claim_date": {
+   "$date": "2026-05-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 27,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 61,
+  "claim_number": "CLM2025061",
+  "policy_number": "POL2024124",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 12900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 52,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 62,
+  "claim_number": "CLM2025062",
+  "policy_number": "POL2024113",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 10900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 41,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-11-20T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "discharge_summary.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 63,
+  "claim_number": "CLM2025063",
+  "policy_number": "POL2024215",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "East",
+  "city": "Bhubaneswar",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 3800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-12-08T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 22,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 64,
+  "claim_number": "CLM2025064",
+  "policy_number": "POL2024120",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 23200.0,
+  "settled_amount": 14400.0,
+  "claim_date": {
+   "$date": "2026-08-21T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 36,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 65,
+  "claim_number": "CLM2025065",
+  "policy_number": "POL2024121",
+  "policy_type": "Travel",
+  "claim_type": "Medical Emergency",
+  "region": "West",
+  "city": "Surat",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 13500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-06-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 11,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 66,
+  "claim_number": "CLM2025066",
+  "policy_number": "POL2024180",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 23800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 56,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-06-25T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Photographs timestamp mismatch flagged for review."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 67,
+  "claim_number": "CLM2025067",
+  "policy_number": "POL2024138",
+  "policy_type": "Home",
+  "claim_type": "Flood",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 24100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-09-08T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 41,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-09-09T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    }
+   ]
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "photos.zip",
+   "discharge_summary.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 68,
+  "claim_number": "CLM2025068",
+  "policy_number": "POL2024051",
+  "policy_type": "Home",
+  "claim_type": "Burglary",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 106300.0,
+  "settled_amount": 64300.0,
+  "claim_date": {
+   "$date": "2024-07-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 6,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 69,
+  "claim_number": "CLM2025069",
+  "policy_number": "POL2024197",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 65700.0,
+  "settled_amount": 56400.0,
+  "claim_date": {
+   "$date": "2026-07-10T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-07-11T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2026-07-14T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Documents verified with hospital/workshop records."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 70,
+  "claim_number": "CLM2025070",
+  "policy_number": "POL2024049",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 17500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 48,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 71,
+  "claim_number": "CLM2025071",
+  "policy_number": "POL2024125",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 23900.0,
+  "settled_amount": 16800.0,
+  "claim_date": {
+   "$date": "2024-07-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 78,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2024-07-19T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2024-07-22T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Possible inflated estimate - escalated to SIU."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "photos.zip",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 72,
+  "claim_number": "CLM2025072",
+  "policy_number": "POL2024092",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 25000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-23T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 30,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "claim_form.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 73,
+  "claim_number": "CLM2025073",
+  "policy_number": "POL2024043",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 3400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-09-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 8,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "medical_report.pdf",
+   "claim_form.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 74,
+  "claim_number": "CLM2025074",
+  "policy_number": "POL2024018",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 39500.0,
+  "settled_amount": 34200.0,
+  "claim_date": {
+   "$date": "2025-10-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 58,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 75,
+  "claim_number": "CLM2025075",
+  "policy_number": "POL2024167",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 42700.0,
+  "settled_amount": 35700.0,
+  "claim_date": {
+   "$date": "2026-03-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 8,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 76,
+  "claim_number": "CLM2025076",
+  "policy_number": "POL2024044",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 4300.0,
+  "settled_amount": 3500.0,
+  "claim_date": {
+   "$date": "2026-01-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 58,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 77,
+  "claim_number": "CLM2025077",
+  "policy_number": "POL2024069",
+  "policy_type": "Life",
+  "claim_type": "Death Benefit",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 535000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-10T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Alok Mishra",
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-10-11T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2026-10-14T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2026-10-17T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Cross-checked with police/FIR report."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": [
+   "high-value"
+  ]
+ },
+ {
+  "claim_id": 78,
+  "claim_number": "CLM2025078",
+  "policy_number": "POL2024077",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Surat",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 32400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 12,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 79,
+  "claim_number": "CLM2025079",
+  "policy_number": "POL2024091",
+  "policy_type": "Home",
+  "claim_type": "Flood",
+  "region": "North",
+  "city": "Delhi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 107000.0,
+  "settled_amount": 74300.0,
+  "claim_date": {
+   "$date": "2026-03-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 15,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 80,
+  "claim_number": "CLM2025080",
+  "policy_number": "POL2024140",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "East",
+  "city": "Patna",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 14200.0,
+  "settled_amount": 12200.0,
+  "claim_date": {
+   "$date": "2025-06-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-06-19T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    },
+    {
+     "date": {
+      "$date": "2025-06-22T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 81,
+  "claim_number": "CLM2025081",
+  "policy_number": "POL2024113",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12200.0,
+  "settled_amount": 10200.0,
+  "claim_date": {
+   "$date": "2026-10-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 45,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 82,
+  "claim_number": "CLM2025082",
+  "policy_number": "POL2024158",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 47300.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-01-09T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 17,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 83,
+  "claim_number": "CLM2025083",
+  "policy_number": "POL2024120",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 39000.0,
+  "settled_amount": 32600.0,
+  "claim_date": {
+   "$date": "2026-01-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 63,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-01-16T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Photographs timestamp mismatch flagged for review."
+    }
+   ]
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf",
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 84,
+  "claim_number": "CLM2025084",
+  "policy_number": "POL2024010",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 7000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-03-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 16,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "discharge_summary.pdf",
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 85,
+  "claim_number": "CLM2025085",
+  "policy_number": "POL2024099",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 46600.0,
+  "settled_amount": 37000.0,
+  "claim_date": {
+   "$date": "2025-12-30T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 30,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "photos.zip",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 86,
+  "claim_number": "CLM2025086",
+  "policy_number": "POL2024094",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 4800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-11T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 16,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 87,
+  "claim_number": "CLM2025087",
+  "policy_number": "POL2024127",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Chennai",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 67400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 24,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 88,
+  "claim_number": "CLM2025088",
+  "policy_number": "POL2024031",
+  "policy_type": "Home",
+  "claim_type": "Flood",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 52300.0,
+  "settled_amount": 39900.0,
+  "claim_date": {
+   "$date": "2025-06-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 17,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-06-18T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    },
+    {
+     "date": {
+      "$date": "2025-06-21T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    },
+    {
+     "date": {
+      "$date": "2025-06-24T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Photographs timestamp mismatch flagged for review."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 89,
+  "claim_number": "CLM2025089",
+  "policy_number": "POL2024160",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North-East",
+  "city": "Shillong",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 11600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-21T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 13,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "invoice.pdf",
+   "claim_form.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 90,
+  "claim_number": "CLM2025090",
+  "policy_number": "POL2024018",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 31700.0,
+  "settled_amount": 24200.0,
+  "claim_date": {
+   "$date": "2025-04-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 27,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 91,
+  "claim_number": "CLM2025091",
+  "policy_number": "POL2024214",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 38800.0,
+  "settled_amount": 28400.0,
+  "claim_date": {
+   "$date": "2025-05-25T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 53,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "photos.zip",
+   "discharge_summary.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 92,
+  "claim_number": "CLM2025092",
+  "policy_number": "POL2024110",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12200.0,
+  "settled_amount": 11400.0,
+  "claim_date": {
+   "$date": "2025-02-27T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 11,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 93,
+  "claim_number": "CLM2025093",
+  "policy_number": "POL2024152",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 21300.0,
+  "settled_amount": 13300.0,
+  "claim_date": {
+   "$date": "2024-11-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 94,
+  "claim_number": "CLM2025094",
+  "policy_number": "POL2024137",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 17500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-08-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 32,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 95,
+  "claim_number": "CLM2025095",
+  "policy_number": "POL2024145",
+  "policy_type": "Home",
+  "claim_type": "Water Damage",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 47200.0,
+  "settled_amount": 43000.0,
+  "claim_date": {
+   "$date": "2024-08-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 10,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 96,
+  "claim_number": "CLM2025096",
+  "policy_number": "POL2024173",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 27500.0,
+  "settled_amount": 27100.0,
+  "claim_date": {
+   "$date": "2026-05-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 58,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-05-21T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Prior claim history reviewed - no red flags."
+    },
+    {
+     "date": {
+      "$date": "2026-05-24T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2026-05-27T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Cross-checked with police/FIR report."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 97,
+  "claim_number": "CLM2025097",
+  "policy_number": "POL2024203",
+  "policy_type": "Travel",
+  "claim_type": "Baggage Loss",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 14700.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 46,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-10-14T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Cross-checked with police/FIR report."
+    },
+    {
+     "date": {
+      "$date": "2026-10-17T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 98,
+  "claim_number": "CLM2025098",
+  "policy_number": "POL2024057",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 29900.0,
+  "settled_amount": 21000.0,
+  "claim_date": {
+   "$date": "2026-10-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 31,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "claim_form.pdf",
+   "invoice.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 99,
+  "claim_number": "CLM2025099",
+  "policy_number": "POL2024015",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 16700.0,
+  "settled_amount": 16500.0,
+  "claim_date": {
+   "$date": "2026-05-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 60,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "discharge_summary.pdf",
+   "id_proof.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 100,
+  "claim_number": "CLM2025100",
+  "policy_number": "POL2024144",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 35200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 12,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 101,
+  "claim_number": "CLM2025101",
+  "policy_number": "POL2024063",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 10000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-08-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 15,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 102,
+  "claim_number": "CLM2025102",
+  "policy_number": "POL2024174",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "Central",
+  "city": "Bhopal",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 30600.0,
+  "settled_amount": 17100.0,
+  "claim_date": {
+   "$date": "2025-08-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 51,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "discharge_summary.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 103,
+  "claim_number": "CLM2025103",
+  "policy_number": "POL2024049",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 4600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-09-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 56,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-09-25T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2026-09-28T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Documents verified with hospital/workshop records."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "id_proof.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 104,
+  "claim_number": "CLM2025104",
+  "policy_number": "POL2024043",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 18200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-31T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 46,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "photos.zip",
+   "claim_form.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 105,
+  "claim_number": "CLM2025105",
+  "policy_number": "POL2024017",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 31300.0,
+  "settled_amount": 27900.0,
+  "claim_date": {
+   "$date": "2026-09-10T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 10,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 106,
+  "claim_number": "CLM2025106",
+  "policy_number": "POL2024186",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 73000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-30T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 15,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 107,
+  "claim_number": "CLM2025107",
+  "policy_number": "POL2024200",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 46300.0,
+  "settled_amount": 30000.0,
+  "claim_date": {
+   "$date": "2026-09-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 51,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 108,
+  "claim_number": "CLM2025108",
+  "policy_number": "POL2024152",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 29200.0,
+  "settled_amount": 23500.0,
+  "claim_date": {
+   "$date": "2024-11-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 45,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 109,
+  "claim_number": "CLM2025109",
+  "policy_number": "POL2024048",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "West",
+  "city": "Pune",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 26500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-02-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 7,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-02-25T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2025-02-28T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2025-03-03T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Photographs timestamp mismatch flagged for review."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "discharge_summary.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 110,
+  "claim_number": "CLM2025110",
+  "policy_number": "POL2024124",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 68200.0,
+  "settled_amount": 55400.0,
+  "claim_date": {
+   "$date": "2026-09-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 28,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 111,
+  "claim_number": "CLM2025111",
+  "policy_number": "POL2024119",
+  "policy_type": "Life",
+  "claim_type": "Disability",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 813000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-08T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 59,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-11-09T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2026-11-12T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Cross-checked with police/FIR report."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "photos.zip"
+  ],
+  "tags": [
+   "high-value"
+  ]
+ },
+ {
+  "claim_id": 112,
+  "claim_number": "CLM2025112",
+  "policy_number": "POL2024173",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 32900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-12-09T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 22,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 113,
+  "claim_number": "CLM2025113",
+  "policy_number": "POL2024170",
+  "policy_type": "Life",
+  "claim_type": "Death Benefit",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 415900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-04-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-04-17T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2026-04-20T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Site visit completed; damage consistent with claim."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "medical_report.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": [
+   "high-value"
+  ]
+ },
+ {
+  "claim_id": 114,
+  "claim_number": "CLM2025114",
+  "policy_number": "POL2024056",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North",
+  "city": "Lucknow",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 49600.0,
+  "settled_amount": 30100.0,
+  "claim_date": {
+   "$date": "2024-09-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 28,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 115,
+  "claim_number": "CLM2025115",
+  "policy_number": "POL2024144",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 27700.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-07-05T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 39,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "medical_report.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 116,
+  "claim_number": "CLM2025116",
+  "policy_number": "POL2024116",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "West",
+  "city": "Pune",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 34700.0,
+  "settled_amount": 33500.0,
+  "claim_date": {
+   "$date": "2025-08-27T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "T. Ramesh",
+   "risk_score": 27,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-08-28T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2025-08-31T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2025-09-03T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 117,
+  "claim_number": "CLM2025117",
+  "policy_number": "POL2024064",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 75100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 56,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 118,
+  "claim_number": "CLM2025118",
+  "policy_number": "POL2024089",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12000.0,
+  "settled_amount": 9500.0,
+  "claim_date": {
+   "$date": "2025-02-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 16,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 119,
+  "claim_number": "CLM2025119",
+  "policy_number": "POL2024197",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 95800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-11T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 10,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-11-12T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Documents verified with hospital/workshop records."
+    }
+   ]
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "invoice.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 120,
+  "claim_number": "CLM2025120",
+  "policy_number": "POL2024169",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 21400.0,
+  "settled_amount": 13200.0,
+  "claim_date": {
+   "$date": "2024-08-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 5,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf",
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 121,
+  "claim_number": "CLM2025121",
+  "policy_number": "POL2024112",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 13000.0,
+  "settled_amount": 10800.0,
+  "claim_date": {
+   "$date": "2024-10-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2024-10-14T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Photographs timestamp mismatch flagged for review."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 122,
+  "claim_number": "CLM2025122",
+  "policy_number": "POL2024192",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "North-East",
+  "city": "Shillong",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 12200.0,
+  "settled_amount": 10200.0,
+  "claim_date": {
+   "$date": "2024-12-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 25,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "invoice.pdf",
+   "photos.zip",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 123,
+  "claim_number": "CLM2025123",
+  "policy_number": "POL2024050",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Pune",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 8700.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-01-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 35,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 124,
+  "claim_number": "CLM2025124",
+  "policy_number": "POL2024094",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "North-East",
+  "city": "Guwahati",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 5900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-09-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 52,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 125,
+  "claim_number": "CLM2025125",
+  "policy_number": "POL2024040",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "West",
+  "city": "Surat",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 21900.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-07-05T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 29,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 126,
+  "claim_number": "CLM2025126",
+  "policy_number": "POL2024026",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North",
+  "city": "Delhi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 21100.0,
+  "settled_amount": 17800.0,
+  "claim_date": {
+   "$date": "2025-05-10T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 40,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 127,
+  "claim_number": "CLM2025127",
+  "policy_number": "POL2024057",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 34100.0,
+  "settled_amount": 31100.0,
+  "claim_date": {
+   "$date": "2026-03-13T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Alok Mishra",
+   "risk_score": 22,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-03-14T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Documents verified with hospital/workshop records."
+    },
+    {
+     "date": {
+      "$date": "2026-03-17T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Requested additional invoices from claimant."
+    },
+    {
+     "date": {
+      "$date": "2026-03-20T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 128,
+  "claim_number": "CLM2025128",
+  "policy_number": "POL2024136",
+  "policy_type": "Home",
+  "claim_type": "Burglary",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 77700.0,
+  "settled_amount": 71200.0,
+  "claim_date": {
+   "$date": "2026-09-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 52,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 129,
+  "claim_number": "CLM2025129",
+  "policy_number": "POL2024092",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 51700.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-05-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 5,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "discharge_summary.pdf",
+   "invoice.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 130,
+  "claim_number": "CLM2025130",
+  "policy_number": "POL2024150",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "West",
+  "city": "Goa",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 32000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-11-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 8,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 131,
+  "claim_number": "CLM2025131",
+  "policy_number": "POL2024146",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Bengaluru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 25700.0,
+  "settled_amount": 20200.0,
+  "claim_date": {
+   "$date": "2026-06-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 23,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-06-16T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    },
+    {
+     "date": {
+      "$date": "2026-06-19T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 132,
+  "claim_number": "CLM2025132",
+  "policy_number": "POL2024036",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "APPROVED",
+  "outcome": "In Progress",
+  "claimed_amount": 15800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-07-01T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 133,
+  "claim_number": "CLM2025133",
+  "policy_number": "POL2024004",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 29200.0,
+  "settled_amount": 26300.0,
+  "claim_date": {
+   "$date": "2026-08-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 58,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "id_proof.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 134,
+  "claim_number": "CLM2025134",
+  "policy_number": "POL2024088",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 39000.0,
+  "settled_amount": 35600.0,
+  "claim_date": {
+   "$date": "2025-02-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 52,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 135,
+  "claim_number": "CLM2025135",
+  "policy_number": "POL2024068",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 6500.0,
+  "settled_amount": 5000.0,
+  "claim_date": {
+   "$date": "2025-01-25T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 54,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 136,
+  "claim_number": "CLM2025136",
+  "policy_number": "POL2024098",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "East",
+  "city": "Patna",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 13200.0,
+  "settled_amount": 12300.0,
+  "claim_date": {
+   "$date": "2025-07-11T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 47,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-07-12T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Prior claim history reviewed - no red flags."
+    },
+    {
+     "date": {
+      "$date": "2025-07-15T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2025-07-18T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 137,
+  "claim_number": "CLM2025137",
+  "policy_number": "POL2024057",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 7500.0,
+  "settled_amount": 4800.0,
+  "claim_date": {
+   "$date": "2026-04-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 60,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 138,
+  "claim_number": "CLM2025138",
+  "policy_number": "POL2024193",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "West",
+  "city": "Surat",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 17100.0,
+  "settled_amount": 15300.0,
+  "claim_date": {
+   "$date": "2025-08-31T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 51,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 139,
+  "claim_number": "CLM2025139",
+  "policy_number": "POL2024013",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "Central",
+  "city": "Raipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 7300.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2024-10-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 7,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "invoice.pdf",
+   "photos.zip",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 140,
+  "claim_number": "CLM2025140",
+  "policy_number": "POL2024133",
+  "policy_type": "Home",
+  "claim_type": "Fire",
+  "region": "South",
+  "city": "Kochi",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 6000.0,
+  "settled_amount": 5700.0,
+  "claim_date": {
+   "$date": "2026-05-15T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 141,
+  "claim_number": "CLM2025141",
+  "policy_number": "POL2024009",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North-East",
+  "city": "Shillong",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 84600.0,
+  "settled_amount": 52300.0,
+  "claim_date": {
+   "$date": "2025-09-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 12,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 142,
+  "claim_number": "CLM2025142",
+  "policy_number": "POL2024064",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 11300.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-02-18T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "claim_form.pdf",
+   "photos.zip",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 143,
+  "claim_number": "CLM2025143",
+  "policy_number": "POL2024009",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "North-East",
+  "city": "Shillong",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 29600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-11-23T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 20,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "invoice.pdf",
+   "medical_report.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 144,
+  "claim_number": "CLM2025144",
+  "policy_number": "POL2024173",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 8700.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-04-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 55,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 145,
+  "claim_number": "CLM2025145",
+  "policy_number": "POL2024080",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 20500.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-11-22T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 5,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf",
+   "claim_form.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 146,
+  "claim_number": "CLM2025146",
+  "policy_number": "POL2024028",
+  "policy_type": "Travel",
+  "claim_type": "Baggage Loss",
+  "region": "East",
+  "city": "Patna",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 34100.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2024-07-09T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 51,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 147,
+  "claim_number": "CLM2025147",
+  "policy_number": "POL2024033",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Bhopal",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 37800.0,
+  "settled_amount": 30400.0,
+  "claim_date": {
+   "$date": "2025-11-28T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 26,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 148,
+  "claim_number": "CLM2025148",
+  "policy_number": "POL2024195",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 8600.0,
+  "settled_amount": 7800.0,
+  "claim_date": {
+   "$date": "2026-02-27T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 34,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "photos.zip",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 149,
+  "claim_number": "CLM2025149",
+  "policy_number": "POL2024092",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 24600.0,
+  "settled_amount": 15000.0,
+  "claim_date": {
+   "$date": "2026-09-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-09-03T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Third-party verification pending."
+    },
+    {
+     "date": {
+      "$date": "2026-09-06T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Site visit completed; damage consistent with claim."
+    },
+    {
+     "date": {
+      "$date": "2026-09-09T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Cross-checked with police/FIR report."
+    }
+   ]
+  },
+  "documents": [
+   "medical_report.pdf",
+   "photos.zip",
+   "fir_copy.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 150,
+  "claim_number": "CLM2025150",
+  "policy_number": "POL2024195",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 31100.0,
+  "settled_amount": 19300.0,
+  "claim_date": {
+   "$date": "2026-02-08T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 45,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 151,
+  "claim_number": "CLM2025151",
+  "policy_number": "POL2024126",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "South",
+  "city": "Mysuru",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 56200.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-08-21T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 26,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "fir_copy.pdf",
+   "photos.zip",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 152,
+  "claim_number": "CLM2025152",
+  "policy_number": "POL2024140",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "East",
+  "city": "Patna",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 20000.0,
+  "settled_amount": 11500.0,
+  "claim_date": {
+   "$date": "2025-09-14T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 48,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "medical_report.pdf",
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 153,
+  "claim_number": "CLM2025153",
+  "policy_number": "POL2024112",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "North",
+  "city": "Amritsar",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 9700.0,
+  "settled_amount": 7400.0,
+  "claim_date": {
+   "$date": "2025-04-11T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 10,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 154,
+  "claim_number": "CLM2025154",
+  "policy_number": "POL2024160",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "North-East",
+  "city": "Shillong",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 7200.0,
+  "settled_amount": 4700.0,
+  "claim_date": {
+   "$date": "2026-05-12T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 11,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "discharge_summary.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 155,
+  "claim_number": "CLM2025155",
+  "policy_number": "POL2024169",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 14200.0,
+  "settled_amount": 8700.0,
+  "claim_date": {
+   "$date": "2025-04-03T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 22,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 156,
+  "claim_number": "CLM2025156",
+  "policy_number": "POL2024169",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "REJECTED",
+  "outcome": "Rejected",
+  "claimed_amount": 13600.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-06-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Farida Sheikh",
+   "risk_score": 35,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-06-18T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Requested additional invoices from claimant."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "photos.zip",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 157,
+  "claim_number": "CLM2025157",
+  "policy_number": "POL2024166",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "West",
+  "city": "Mumbai",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 32000.0,
+  "settled_amount": 27800.0,
+  "claim_date": {
+   "$date": "2025-08-30T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 57,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 158,
+  "claim_number": "CLM2025158",
+  "policy_number": "POL2024140",
+  "policy_type": "Health",
+  "claim_type": "Surgery",
+  "region": "East",
+  "city": "Patna",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 16200.0,
+  "settled_amount": 11700.0,
+  "claim_date": {
+   "$date": "2025-12-11T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Sandeep Kapoor",
+   "risk_score": 8,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-12-12T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2025-12-15T10:00:00Z"
+     },
+     "author": "T. Ramesh",
+     "text": "Photographs timestamp mismatch flagged for review."
+    },
+    {
+     "date": {
+      "$date": "2025-12-18T10:00:00Z"
+     },
+     "author": "Alok Mishra",
+     "text": "Prior claim history reviewed - no red flags."
+    }
+   ]
+  },
+  "documents": [
+   "claim_form.pdf",
+   "photos.zip",
+   "medical_report.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 159,
+  "claim_number": "CLM2025159",
+  "policy_number": "POL2024015",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "East",
+  "city": "Kolkata",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 28600.0,
+  "settled_amount": 26900.0,
+  "claim_date": {
+   "$date": "2026-04-25T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 44,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 160,
+  "claim_number": "CLM2025160",
+  "policy_number": "POL2024099",
+  "policy_type": "Motor",
+  "claim_type": "Accident",
+  "region": "Central",
+  "city": "Nagpur",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 41000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-19T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 38,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "medical_report.pdf",
+   "fir_copy.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 161,
+  "claim_number": "CLM2025161",
+  "policy_number": "POL2024124",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "South",
+  "city": "Hyderabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 14500.0,
+  "settled_amount": 12700.0,
+  "claim_date": {
+   "$date": "2026-10-06T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 46,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 162,
+  "claim_number": "CLM2025162",
+  "policy_number": "POL2024087",
+  "policy_type": "Health",
+  "claim_type": "Hospitalization",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 15500.0,
+  "settled_amount": 13300.0,
+  "claim_date": {
+   "$date": "2026-04-24T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 37,
+   "fraud_suspected": false,
+   "notes": [
+    {
+     "date": {
+      "$date": "2026-04-25T10:00:00Z"
+     },
+     "author": "Rekha Naik",
+     "text": "Customer statement recorded; minor inconsistencies noted."
+    }
+   ]
+  },
+  "documents": [
+   "id_proof.pdf",
+   "fir_copy.pdf",
+   "medical_report.pdf",
+   "claim_form.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 163,
+  "claim_number": "CLM2025163",
+  "policy_number": "POL2024114",
+  "policy_type": "Health",
+  "claim_type": "Outpatient",
+  "region": "North",
+  "city": "Chandigarh",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 30100.0,
+  "settled_amount": 20000.0,
+  "claim_date": {
+   "$date": "2025-02-17T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 7,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "claim_form.pdf",
+   "id_proof.pdf",
+   "photos.zip"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 164,
+  "claim_number": "CLM2025164",
+  "policy_number": "POL2024146",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "South",
+  "city": "Bengaluru",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 79400.0,
+  "settled_amount": 68500.0,
+  "claim_date": {
+   "$date": "2026-09-04T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 38,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "fir_copy.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 165,
+  "claim_number": "CLM2025165",
+  "policy_number": "POL2024144",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 61800.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2025-07-29T00:00:00Z"
+  },
+  "investigation": {
+   "required": true,
+   "investigator": "Rekha Naik",
+   "risk_score": 84,
+   "fraud_suspected": true,
+   "notes": [
+    {
+     "date": {
+      "$date": "2025-07-30T10:00:00Z"
+     },
+     "author": "Sandeep Kapoor",
+     "text": "Cross-checked with police/FIR report."
+    },
+    {
+     "date": {
+      "$date": "2025-08-02T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Possible inflated estimate - escalated to SIU."
+    },
+    {
+     "date": {
+      "$date": "2025-08-05T10:00:00Z"
+     },
+     "author": "Farida Sheikh",
+     "text": "Requested additional invoices from claimant."
+    }
+   ]
+  },
+  "documents": [
+   "discharge_summary.pdf",
+   "id_proof.pdf",
+   "invoice.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 166,
+  "claim_number": "CLM2025166",
+  "policy_number": "POL2024006",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 34100.0,
+  "settled_amount": 26100.0,
+  "claim_date": {
+   "$date": "2025-08-02T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 24,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 167,
+  "claim_number": "CLM2025167",
+  "policy_number": "POL2024007",
+  "policy_type": "Motor",
+  "claim_type": "Theft",
+  "region": "North",
+  "city": "Jaipur",
+  "status": "SUBMITTED",
+  "outcome": "In Progress",
+  "claimed_amount": 56400.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-10-16T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 36,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "photos.zip",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 168,
+  "claim_number": "CLM2025168",
+  "policy_number": "POL2024113",
+  "policy_type": "Motor",
+  "claim_type": "Third-Party Liability",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "UNDER_REVIEW",
+  "outcome": "In Progress",
+  "claimed_amount": 23000.0,
+  "settled_amount": null,
+  "claim_date": {
+   "$date": "2026-11-04T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 7,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "invoice.pdf",
+   "id_proof.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 169,
+  "claim_number": "CLM2025169",
+  "policy_number": "POL2024087",
+  "policy_type": "Health",
+  "claim_type": "Critical Illness",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 2500.0,
+  "settled_amount": 1500.0,
+  "claim_date": {
+   "$date": "2026-05-20T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 55,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "id_proof.pdf",
+   "discharge_summary.pdf",
+   "claim_form.pdf",
+   "medical_report.pdf"
+  ],
+  "tags": []
+ },
+ {
+  "claim_id": 170,
+  "claim_number": "CLM2025170",
+  "policy_number": "POL2024200",
+  "policy_type": "Motor",
+  "claim_type": "Natural Calamity",
+  "region": "West",
+  "city": "Ahmedabad",
+  "status": "SETTLED",
+  "outcome": "Settled",
+  "claimed_amount": 16000.0,
+  "settled_amount": 9300.0,
+  "claim_date": {
+   "$date": "2026-03-23T00:00:00Z"
+  },
+  "investigation": {
+   "required": false,
+   "investigator": null,
+   "risk_score": 55,
+   "fraud_suspected": false,
+   "notes": []
+  },
+  "documents": [
+   "medical_report.pdf",
+   "fir_copy.pdf"
+  ],
+  "tags": []
+ }
+]
